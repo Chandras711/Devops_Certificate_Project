@@ -1,1 +1,0 @@
-# Devops_Certificate_Project
